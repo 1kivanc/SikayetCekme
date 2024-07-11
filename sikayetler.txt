@@ -1,84 +1,127 @@
-Togg Servis Telefonlara Saatlerdir Cevap Vermiyor!
-Togg Aracımın Arızasını Halletmiyor
-Togg Paslanan Krom Çıtayı Garanti Kapsamına Sokmuyor
-Togg'da Geliştirilmesi Gereken Çok Şey Var
-Togg Ekranlar Tamamen Gitti
-Togg Arızasında Yol Yardım Ve İkame Araç Eksikliği
-Togg Gemlik Servis Sorunu!
-Togg Arızası Ve Servisinin İlgisizliği Muhatap Bulamıyorum
-Togg Müşteri Temsilcisi Yok
-Togg Enerji Sistem Hatası
-Haksızlık Togg Kullanıcılarına Birkaç İlde Servis Olması
-Togg'un Yetkili Servis Ağı Yok
-Togg Care Servis İletişim Problemleri
-Togg Satış Elemanların Haberi Yok
-Togg Servisine Hiçbir Şekilde Ulaşılamıyor
-Togg Marka Araba Servis Çilesi
-Togg T10 X Arıza
-Togg İzmir Servisi Ve Araç Hataları
-Togg İstanbul Servis Kaza İçin 1 Ay Sonrasına Randevu Veriyor
-Togg Servis Telefonlara Saatlerdir Cevap Vermiyor!
-Togg Aracımın Arızasını Halletmiyor
-Togg Paslanan Krom Çıtayı Garanti Kapsamına Sokmuyor
-Togg'da Geliştirilmesi Gereken Çok Şey Var
-Togg Ekranlar Tamamen Gitti
-Togg Arızasında Yol Yardım Ve İkame Araç Eksikliği
-Togg Gemlik Servis Sorunu!
-Togg Arızası Ve Servisinin İlgisizliği Muhatap Bulamıyorum
-Togg Müşteri Temsilcisi Yok
-Togg Enerji Sistem Hatası
-Haksızlık Togg Kullanıcılarına Birkaç İlde Servis Olması
-Togg'un Yetkili Servis Ağı Yok
-Togg Care Servis İletişim Problemleri
-Togg Satış Elemanların Haberi Yok
-Togg Servisine Hiçbir Şekilde Ulaşılamıyor
-Togg Marka Araba Servis Çilesi
-Togg T10 X Arıza
-Togg İzmir Servisi Ve Araç Hataları
-Togg İstanbul Servis Kaza İçin 1 Ay Sonrasına Randevu Veriyor
-Togg Ve Sorumsuzluk, Güzel Bir İkili!
-Togg Vurdumduymazlığı Ve Çağrı Merkezinin Ciddiyetsiz Olması
-Togg Güncelleme Kabusu: Bekletildik, Sorunlar Arttı!
-Togg Cam Açma Kapama Sorunu
-Togg Müşteri Hizmetleri İlgisizliği
-Togg Siparişim İradem Dışında İptal Edildi
-Togg Çizik Araba Teslim Etti!
-Togg Servis Ve Müşteri Hizmetleri
-Togg Kötü Yönetim Ve Perişan Kullanıcılar!
-Togg Satış Temsilcisi İle Temas Kuramıyorum
-Togg Atatürk Havalimanı Teslimat Görevlisi Çok Sinirli
-Togg T10X İle Yaşadığım Hayal Kırıklığı!
-Togg Evraklar Yüklendi, Akıllı Cihaz Tanımlaması Hala Beklemede!
-Togg İle İletişim Kurulmuyor
-Togg Eski Tarihli Lastik Takmış!
-Togg Servis Deneyimi Ve Çözülmeyen Sorunlar
-Togg Fazla Fatura Hatası
-Togg 24 Saat Geçmeden Arızadan Arızaya Koşuyoruz
-Togg Teslimatında Yaşanan Sıkıntı
-Togg Elektrikli Araçlar İçin Yetersiz Şarj İstasyonları!
-Togg T10x Küçük Akü Sorunu
-Togg Araç Sahiplik Onayı
-Togg V2 Siparişimde Banka Kredisi Sorunu
-Togg Kredi Kampanyası Var Da Yok
-Togg T10X Uzun Menzil!
-Togg Şarj Cihazı Arızası
-Togg T10x Devamlı Arıza Veriyor
-20 Gündür Togg Sisteme Tanımlanmadı
-Togg Şarj Cihazında Yaşanan Sorun Ve Yetersiz Hizmet
-Togg T10X Şarj Olmuyor Sürekli Yüksek Voltaj Hatası Veriyor
-Togg Servise Ulaşmak İmkansız
-Togg Teslim Edilirken Olmaması Gereken Küçük Hatalar
-Togg Sorumsuz Kötü Hizmet
-Togg Servisinin Sorumsuzluğu!
-Togg Güncel Veri Alamama
-Togg Aldığım Gün Ekran Kapandı
-Togg Servis Ağı Problemli
-T10x Aracım Ac Şarj Almıyor Togg İlgilenmiyor Bile!
-Togg Pişmanlığım, Çözülemeyen Direksiyon Açı Sensörü Arızası
-Togg Elektrik Sistemi Arızası
-Togg Hayal Kırıklığı Oldu...
-Togg Hediye Enerji Bakiyesi Yüklenmedi!
-Yedi Mavi Togg Servis Çalışanlarının Aracı Vurması Ve 250 Km Gezmesi
-Togg Ankara Söğütözü Servis Ulaşılamama Sorunu
-Togg Arızası Yine Yeniden
-Togg Kampanyanın Arkasında Durmuyor!
+Asla Müşterileri Muhatap Almıyor
+Servis Birimi Telefonlara Bakmıyor
+Çözülmeyen Enerji Sistemi Arızası!
+Kayseri'de Servis Ve Güncelleme Hizmetleri Eksikliği
+Satış Sonrası Hizmet Kalitesi 'a Yakışmıyor
+Servis Telefonlara Saatlerdir Cevap Vermiyor!
+Aracımın Arızasını Halletmiyor
+Paslanan Krom Çıtayı Garanti Kapsamına Sokmuyor
+'da Geliştirilmesi Gereken Çok Şey Var
+Ekranlar Tamamen Gitti
+Arızasında Yol Yardım Ve İkame Araç Eksikliği
+Gemlik Servis Sorunu!
+Arızası Ve Servisinin İlgisizliği Muhatap Bulamıyorum
+Müşteri Temsilcisi Yok
+Enerji Sistem Hatası
+Haksızlık  Kullanıcılarına Birkaç İlde Servis Olması
+'un Yetkili Servis Ağı Yok
+Care Servis İletişim Problemleri
+Satış Elemanların Haberi Yok
+Servisine Hiçbir Şekilde Ulaşılamıyor
+Marka Araba Servis Çilesi
+Asla Müşterileri Muhatap Almıyor
+Servis Birimi Telefonlara Bakmıyor
+Çözülmeyen Enerji Sistemi Arızası!
+Kayseri'de Servis Ve Güncelleme Hizmetleri Eksikliği
+Satış Sonrası Hizmet Kalitesi 'a Yakışmıyor
+Servis Telefonlara Saatlerdir Cevap Vermiyor!
+Aracımın Arızasını Halletmiyor
+Paslanan Krom Çıtayı Garanti Kapsamına Sokmuyor
+'da Geliştirilmesi Gereken Çok Şey Var
+Ekranlar Tamamen Gitti
+Arızasında Yol Yardım Ve İkame Araç Eksikliği
+Gemlik Servis Sorunu!
+Arızası Ve Servisinin İlgisizliği Muhatap Bulamıyorum
+Müşteri Temsilcisi Yok
+Enerji Sistem Hatası
+Haksızlık  Kullanıcılarına Birkaç İlde Servis Olması
+'un Yetkili Servis Ağı Yok
+Care Servis İletişim Problemleri
+Satış Elemanların Haberi Yok
+Servisine Hiçbir Şekilde Ulaşılamıyor
+Marka Araba Servis Çilesi
+T10 X Arıza
+İzmir Servisi Ve Araç Hataları
+İstanbul Servis Kaza İçin 1 Ay Sonrasına Randevu Veriyor
+Ve Sorumsuzluk, Güzel Bir İkili!
+Vurdumduymazlığı Ve Çağrı Merkezinin Ciddiyetsiz Olması
+Güncelleme Kabusu: Bekletildik, Sorunlar Arttı!
+Cam Açma Kapama Sorunu
+Müşteri Hizmetleri İlgisizliği
+Siparişim İradem Dışında İptal Edildi
+Çizik Araba Teslim Etti!
+Servis Ve Müşteri Hizmetleri
+Kötü Yönetim Ve Perişan Kullanıcılar!
+Satış Temsilcisi İle Temas Kuramıyorum
+Atatürk Havalimanı Teslimat Görevlisi Çok Sinirli
+T10X İle Yaşadığım Hayal Kırıklığı!
+Evraklar Yüklendi, Akıllı Cihaz Tanımlaması Hala Beklemede!
+İle İletişim Kurulmuyor
+Eski Tarihli Lastik Takmış!
+Servis Deneyimi Ve Çözülmeyen Sorunlar
+Fazla Fatura Hatası
+24 Saat Geçmeden Arızadan Arızaya Koşuyoruz
+Teslimatında Yaşanan Sıkıntı
+Elektrikli Araçlar İçin Yetersiz Şarj İstasyonları!
+T10x Küçük Akü Sorunu
+Araç Sahiplik Onayı
+V2 Siparişimde Banka Kredisi Sorunu
+Kredi Kampanyası Var Da Yok
+T10X Uzun Menzil!
+Şarj Cihazı Arızası
+T10x Devamlı Arıza Veriyor
+20 Gündür  Sisteme Tanımlanmadı
+Şarj Cihazında Yaşanan Sorun Ve Yetersiz Hizmet
+T10X Şarj Olmuyor Sürekli Yüksek Voltaj Hatası Veriyor
+Servise Ulaşmak İmkansız
+Teslim Edilirken Olmaması Gereken Küçük Hatalar
+Sorumsuz Kötü Hizmet
+Servisinin Sorumsuzluğu!
+Güncel Veri Alamama
+Aldığım Gün Ekran Kapandı
+Servis Ağı Problemli
+T10x Aracım Ac Şarj Almıyor  İlgilenmiyor Bile!
+Pişmanlığım, Çözülemeyen Direksiyon Açı Sensörü Arızası
+Elektrik Sistemi Arızası
+Hayal Kırıklığı Oldu...
+Hediye Enerji Bakiyesi Yüklenmedi!
+Yedi Mavi  Servis Çalışanlarının Aracı Vurması Ve 250 Km Gezmesi
+Ankara Söğütözü Servis Ulaşılamama Sorunu
+Arızası Yine Yeniden
+Kampanyanın Arkasında Durmuyor!
+Yazılım Ve Parçalarıyla İlgili Yaşadığım Problemler
+Yanlış Bir Sistem
+İlgi Alaka, Bilgi Yok
+Akıllı Cihaz Erişim Uygulama
+Sipariş İlerlemiyor
+Hazırlık Sürece Bitmemesi
+Kredi Hakkınız Devam Ediyor Diyor Ama Krediler İptal
+Vale Modu Sorun Oldu
+Adana  Yetkili Servisi!
+Sipariş Yönetimindeki Yetersizlik
+Siparişi Hala Üretime Geçmedi
+Ve Bitmeyen Arızaları
+60.000 TL Nerede?
+İletişim Ve Sipariş Gecikmesi
+Üretim Geciktirip Proforma Vermeme
+Kredi Kampanyası Pişmanlığı
+Mağduriyeti
+'un Yönetemediği Satış Süreci!
+Kasko Poliçelerinde Rekabet Kurallarına Aykırı Uygulama!
+Servis Sarmalı Ve Muhatap Yok
+Servis Şikayeti Ankara Söğütözü
+10x Kampanya Mağduru
+Kampanya Teslimat İlgisizlik!
+Ac Şarj Sorunu!
+Servis Hizmetinin Kötü Olması
+Sürekli Arızalanıyor, Sorunlara Kalıcı Çözüm Üretilemiyor
+Kampanyası Hüsranla Sonuçlandı
+Sağa Çekme, Titreme Ve Muhatap Bulamama Sorunu!
+Araç Servis Ve Müşteri İlişkileri Sorunları
+Tx10 Teslimatı Gecikmesi
+İlgisiz Ve Umursamaz
+Adana Servisinden Şikayetçiyim
+Fatura 1 Aydır Çıkmadı Ve Kampanyadan Yararlanamazsınız Dediler
+Araç Teslimatı Yapılmıyor
+Size Güvendim Aracımı Sattım 20 Gündür Rezil Oldum!
+Mağduriyeti Ve Müşteri Memnuniyetsizliği

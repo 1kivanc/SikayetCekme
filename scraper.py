@@ -1,10 +1,11 @@
-import time 
-from selenium import webdriver 
+import time
+import re
+from selenium import webdriver
 from selenium.webdriver.chrome.service import Service
 from selenium.webdriver.common.by import By
 from webdriver_manager.chrome import ChromeDriverManager
 
-def sikayetCek(url):
+def sikayetCek(base_url, filter_word):
     global_delay = 0.5
     driver = webdriver.Chrome(service=Service(ChromeDriverManager().install()))
 
@@ -26,16 +27,23 @@ def sikayetCek(url):
                     print(f'Sayfa {page_number} şikayet bulunamadı, sonlandı.')
                     return
 
-                for index,complaint in enumerate(complaints):
+                for index, complaint in enumerate(complaints):
                     try:
                         text = complaint.text
-                        print(f'Şikayet {sikayet_number}: {text}')
-                        with open("sikayetler.txt", "a", encoding='utf-8') as sikayet_file:
-                            sikayet_file.write(f'{text}\n')
+                        if filter_word.lower() in text.lower():
+                            filtered_text = re.sub(r'\b' + re.escape(filter_word) + r'\b', '', text, flags=re.IGNORECASE).strip()
+                            print(f'Şikayet {sikayet_number}: {filtered_text}')
+                            with open("sikayetler.txt", "a", encoding='utf-8') as sikayet_file:
+                                sikayet_file.write(f'{filtered_text}\n')
+                            sikayet_number += 1
+                        else:
+                            print(f'Şikayet {sikayet_number}: {text}')
+                            with open("sikayetler.txt", "a", encoding='utf-8') as sikayet_file:
+                                sikayet_file.write(f'{text}\n')
+                            sikayet_number += 1
                         time.sleep(global_delay)
-                        sikayet_number += 1  
                     except Exception as e:
-                        print(f'Yorum çekilirken hata oluştu: {str(e)}')
+                        print(f'Şikayet yazılırken hata oluştu: {str(e)}')
 
                 driver.execute_script("window.scrollTo(0, document.body.scrollHeight);")
                 time.sleep(5)  
@@ -54,4 +62,5 @@ def sikayetCek(url):
         driver.quit()
 
 base_url = input("Şikayet var linkini giriniz: ")
-sikayetCek(base_url)
+filter_word = input("Filtrelemek istediğiniz kelimeyi giriniz: ")
+sikayetCek(base_url, filter_word)
